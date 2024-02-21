@@ -1,6 +1,7 @@
 openapi: 3.0.1
 info:
   title: Echo API
+  description: dev
   version: '1.0'
 servers:
   - url: https://apim-demo-hs0125.azure-api.net/echo
