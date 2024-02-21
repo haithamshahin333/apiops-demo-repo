@@ -1,0 +1,6 @@
+apimServiceName: apim-prod-hs0220
+namedValues:
+  - name: environment
+    properties:
+      displayName: environment
+      value: "https://www.search2.com"
