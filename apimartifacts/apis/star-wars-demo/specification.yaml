@@ -9,10 +9,11 @@ paths:
   /people:
     get:
       summary: get /PEOPLE
+      description: get /PEOPLE
       operationId: get-people
       responses:
         '200':
-          description: 
+          description: ''
 components:
   securitySchemes:
     apiKeyHeader:
