@@ -1,4 +1,8 @@
 apimServiceName: apim-prod-hs0220
+apis:
+  - name: star-wars-api
+    properties:
+      authenticationSettings: {}
 namedValues:
   - name: environment
     properties:
