@@ -1,5 +1,8 @@
 apimServiceName: apim-prod-hs0220
 apis:
+  - name: echo-api
+    properties:
+      description: "testing"
   - name: star-wars-api
     properties:
       authenticationSettings: {}
